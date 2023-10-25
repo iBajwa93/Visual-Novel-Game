@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{30CCECF4-D304-490D-BC6E-FC0824D6E3F1}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Visual_Novel_Final_Project</RootNamespace>
+    <AssemblyName>Visual_Novel_Final_Project</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.22000.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM64'">
+    <OutputPath>bin\ARM64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GoodEnding.xaml.cs">
+      <DependentUpon>GoodEnding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NeutralEnding.xaml.cs">
+      <DependentUpon>NeutralEnding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="BadEnding.xaml.cs">
+      <DependentUpon>BadEnding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Female_Creation.xaml.cs">
+      <DependentUpon>Female_Creation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Male_Creation.xaml.cs">
+      <DependentUpon>Male_Creation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scenerio1.xaml.cs">
+      <DependentUpon>Scenerio1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenerio2.xaml.cs">
+      <DependentUpon>Scenerio2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenerio3.xaml.cs">
+      <DependentUpon>Scenerio3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenerio4.xaml.cs">
+      <DependentUpon>Scenerio4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Scenerio5.xaml.cs">
+      <DependentUpon>Scenerio5.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Character_Parts\Female\Female_Face.png" />
+    <Content Include="Character_Parts\Female\Female_Face_Dark.png" />
+    <Content Include="Character_Parts\Female\Female_Face_Peach.png" />
+    <Content Include="Character_Parts\Female\Female_Face_Tan.png" />
+    <Content Include="Character_Parts\Female\Female_Hands.png" />
+    <Content Include="Character_Parts\Female\Female_Hands_Dark.png" />
+    <Content Include="Character_Parts\Female\Female_Hands_Peach.png" />
+    <Content Include="Character_Parts\Female\Female_Hands_Tan.png" />
+    <Content Include="Character_Parts\Female\Heavy_Armor_F.png" />
+    <Content Include="Character_Parts\Female\MopHead_haircut_Black_F.png" />
+    <Content Include="Character_Parts\Female\MopHead_haircut_Blonde_F.png" />
+    <Content Include="Character_Parts\Female\MopHead_haircut_Brown_F.png" />
+    <Content Include="Character_Parts\Female\Ponytail_haircut_F.png" />
+    <Content Include="Character_Parts\Female\Suave_Coat_F.png" />
+    <Content Include="Character_Parts\Female\Sword_F.png" />
+    <Content Include="Character_Parts\Male\Bald_haircut_M.png" />
+    <Content Include="Character_Parts\Male\Bald_haircut_M_Dark.png" />
+    <Content Include="Character_Parts\Male\Bald_haircut_M_Peach.png" />
+    <Content Include="Character_Parts\Male\Bald_haircut_M_Tan.png" />
+    <Content Include="Character_Parts\Male\Heavy_Armor_M.png" />
+    <Content Include="Character_Parts\Male\Heavy_Armor_M_Color.png" />
+    <Content Include="Character_Parts\Male\Male_Face.png" />
+    <Content Include="Character_Parts\Male\Male_Face_Dark.png" />
+    <Content Include="Character_Parts\Male\Male_Face_Peach.png" />
+    <Content Include="Character_Parts\Male\Male_Face_Tan.png" />
+    <Content Include="Character_Parts\Male\Male_Hands.png" />
+    <Content Include="Character_Parts\Male\Male_Hands_Dark.png" />
+    <Content Include="Character_Parts\Male\Male_Hands_Peach.png" />
+    <Content Include="Character_Parts\Male\Male_Hands_Tan.png" />
+    <Content Include="Character_Parts\Male\MopHead_haircut_Black_M.png" />
+    <Content Include="Character_Parts\Male\MopHead_haircut_Blonde_M.png" />
+    <Content Include="Character_Parts\Male\MopHead_haircut_Brown_M.png" />
+    <Content Include="Character_Parts\Male\Suave_Coat_M.png" />
+    <Content Include="Character_Parts\Male\Suave_Coat_M_Color.png" />
+    <Content Include="Character_Parts\Male\Sword_M.png" />
+    <Content Include="Downloaded backgrounds\7th-heaven-landscape-wallpaper-1280x720_45459-mm-90.jpg" />
+    <Content Include="Downloaded backgrounds\7thHeaven-Cropped.png" />
+    <Content Include="Downloaded backgrounds\Castle in flames.jpg" />
+    <Content Include="Downloaded backgrounds\CastleinFlames-Cropped.png" />
+    <Content Include="Downloaded backgrounds\Princess Trapped.png" />
+    <Content Include="Downloaded backgrounds\VillageRoad-Cropped.png" />
+    <Content Include="Downloaded backgrounds\Village_Road.jpg" />
+    <Content Include="Misc_Images\Dice.png" />
+    <Content Include="Misc_Images\Empty.png" />
+    <Content Include="My Scenerio drawings\Scenerio1.png" />
+    <Content Include="My Scenerio drawings\Scenerio2.png" />
+    <Content Include="My Scenerio drawings\Scenerio3.png" />
+    <Content Include="My Scenerio drawings\Scenerio4.png" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="GoodEnding.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="NeutralEnding.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="BadEnding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Female_Creation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Male_Creation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Scenerio1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenerio2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenerio3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenerio4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Scenerio5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
+      <Version>6.2.13</Version>
+    </PackageReference>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
