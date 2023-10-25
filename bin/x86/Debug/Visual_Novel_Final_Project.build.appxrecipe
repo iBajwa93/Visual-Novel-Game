@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-11PS0J8M</Machine>
+    <WindowsUser>IanBa</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>8ca5d0b2-473a-416a-9c85-792e1c141885</PackageIdentityName>
+    <PackageIdentityPublisher>CN=IanBa</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.exe">
+      <PackagePath>entrypoint\Visual_Novel_Final_Project.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.13\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22000.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Face.png">
+      <PackagePath>Character_Parts\Female\Female_Face.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Face_Dark.png">
+      <PackagePath>Character_Parts\Female\Female_Face_Dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Face_Peach.png">
+      <PackagePath>Character_Parts\Female\Female_Face_Peach.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Face_Tan.png">
+      <PackagePath>Character_Parts\Female\Female_Face_Tan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Hands.png">
+      <PackagePath>Character_Parts\Female\Female_Hands.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Hands_Dark.png">
+      <PackagePath>Character_Parts\Female\Female_Hands_Dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Hands_Peach.png">
+      <PackagePath>Character_Parts\Female\Female_Hands_Peach.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Female_Hands_Tan.png">
+      <PackagePath>Character_Parts\Female\Female_Hands_Tan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Heavy_Armor_F.png">
+      <PackagePath>Character_Parts\Female\Heavy_Armor_F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\MopHead_haircut_Black_F.png">
+      <PackagePath>Character_Parts\Female\MopHead_haircut_Black_F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\MopHead_haircut_Blonde_F.png">
+      <PackagePath>Character_Parts\Female\MopHead_haircut_Blonde_F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\MopHead_haircut_Brown_F.png">
+      <PackagePath>Character_Parts\Female\MopHead_haircut_Brown_F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Ponytail_haircut_F.png">
+      <PackagePath>Character_Parts\Female\Ponytail_haircut_F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Suave_Coat_F.png">
+      <PackagePath>Character_Parts\Female\Suave_Coat_F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Female\Sword_F.png">
+      <PackagePath>Character_Parts\Female\Sword_F.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Bald_haircut_M.png">
+      <PackagePath>Character_Parts\Male\Bald_haircut_M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Bald_haircut_M_Dark.png">
+      <PackagePath>Character_Parts\Male\Bald_haircut_M_Dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Bald_haircut_M_Peach.png">
+      <PackagePath>Character_Parts\Male\Bald_haircut_M_Peach.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Bald_haircut_M_Tan.png">
+      <PackagePath>Character_Parts\Male\Bald_haircut_M_Tan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Heavy_Armor_M.png">
+      <PackagePath>Character_Parts\Male\Heavy_Armor_M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Heavy_Armor_M_Color.png">
+      <PackagePath>Character_Parts\Male\Heavy_Armor_M_Color.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Face.png">
+      <PackagePath>Character_Parts\Male\Male_Face.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Face_Dark.png">
+      <PackagePath>Character_Parts\Male\Male_Face_Dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Face_Peach.png">
+      <PackagePath>Character_Parts\Male\Male_Face_Peach.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Face_Tan.png">
+      <PackagePath>Character_Parts\Male\Male_Face_Tan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Hands.png">
+      <PackagePath>Character_Parts\Male\Male_Hands.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Hands_Dark.png">
+      <PackagePath>Character_Parts\Male\Male_Hands_Dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Hands_Peach.png">
+      <PackagePath>Character_Parts\Male\Male_Hands_Peach.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Male_Hands_Tan.png">
+      <PackagePath>Character_Parts\Male\Male_Hands_Tan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\MopHead_haircut_Black_M.png">
+      <PackagePath>Character_Parts\Male\MopHead_haircut_Black_M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\MopHead_haircut_Blonde_M.png">
+      <PackagePath>Character_Parts\Male\MopHead_haircut_Blonde_M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\MopHead_haircut_Brown_M.png">
+      <PackagePath>Character_Parts\Male\MopHead_haircut_Brown_M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Suave_Coat_M.png">
+      <PackagePath>Character_Parts\Male\Suave_Coat_M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Suave_Coat_M_Color.png">
+      <PackagePath>Character_Parts\Male\Suave_Coat_M_Color.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Character_Parts\Male\Sword_M.png">
+      <PackagePath>Character_Parts\Male\Sword_M.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Downloaded backgrounds\7thHeaven-Cropped.png">
+      <PackagePath>Downloaded backgrounds\7thHeaven-Cropped.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Downloaded backgrounds\CastleinFlames-Cropped.png">
+      <PackagePath>Downloaded backgrounds\CastleinFlames-Cropped.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Downloaded backgrounds\Princess Trapped.png">
+      <PackagePath>Downloaded backgrounds\Princess Trapped.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Downloaded backgrounds\VillageRoad-Cropped.png">
+      <PackagePath>Downloaded backgrounds\VillageRoad-Cropped.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Misc_Images\Dice.png">
+      <PackagePath>Misc_Images\Dice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Misc_Images\Empty.png">
+      <PackagePath>Misc_Images\Empty.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\My Scenerio drawings\Scenerio1.png">
+      <PackagePath>My Scenerio drawings\Scenerio1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\My Scenerio drawings\Scenerio2.png">
+      <PackagePath>My Scenerio drawings\Scenerio2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\My Scenerio drawings\Scenerio3.png">
+      <PackagePath>My Scenerio drawings\Scenerio3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\My Scenerio drawings\Scenerio4.png">
+      <PackagePath>My Scenerio drawings\Scenerio4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Downloaded backgrounds\7th-heaven-landscape-wallpaper-1280x720_45459-mm-90.jpg">
+      <PackagePath>Downloaded backgrounds\7th-heaven-landscape-wallpaper-1280x720_45459-mm-90.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Downloaded backgrounds\Castle in flames.jpg">
+      <PackagePath>Downloaded backgrounds\Castle in flames.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Downloaded backgrounds\Village_Road.jpg">
+      <PackagePath>Downloaded backgrounds\Village_Road.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.xr.xml">
+      <PackagePath>Visual_Novel_Final_Project.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\GoodEnding.xbf">
+      <PackagePath>GoodEnding.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\NeutralEnding.xbf">
+      <PackagePath>NeutralEnding.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\BadEnding.xbf">
+      <PackagePath>BadEnding.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Female_Creation.xbf">
+      <PackagePath>Female_Creation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Male_Creation.xbf">
+      <PackagePath>Male_Creation.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio1.xbf">
+      <PackagePath>Scenerio1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio2.xbf">
+      <PackagePath>Scenerio2.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio3.xbf">
+      <PackagePath>Scenerio3.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio4.xbf">
+      <PackagePath>Scenerio4.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio5.xbf">
+      <PackagePath>Scenerio5.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22000.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\Visual_Novel_Final_Project.exe">
+      <PackagePath>Visual_Novel_Final_Project.exe</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\IanBa\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.30527.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.30527.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\IanBa\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\IanBa\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.30527.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.30527.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\IanBa\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\IanBa\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.30527.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.30527.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\IanBa\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\IanBa\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.30316.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.30316.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\IanBa\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\IanBa\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.30316.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.30316.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\IanBa\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\IanBa\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.30316.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.30316.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\IanBa\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
