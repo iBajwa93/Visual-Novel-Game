@@ -1,2 +1,2 @@
 # Visual-Novel-Game
-A UWP application which includes XAML pages and C++ programming. Includes hand-drawn bitmap images, character creation and user choices which determine one of three endings.
+A UWP application which consists of XAML pages and C++ programming. Includes hand-drawn bitmap images, as well as character creation and 5 scenerios which lead into one of 3 endings, determined by dice rolls.
