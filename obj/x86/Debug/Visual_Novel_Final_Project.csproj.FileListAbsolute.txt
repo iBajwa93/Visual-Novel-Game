@@ -1,0 +1,286 @@
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\App.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Female_Creation.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Male_Creation.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\MainPage.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.xr.xml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.pdb
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\resources.pri
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\AppxManifest.xml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.build.appxrecipe
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\System.Runtime.dll
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.AssemblyReference.cache
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.CopyComplete
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.pdb
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\priconfig.xml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\resources.resfiles
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\pri.resfiles
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\qualifiers.txt
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637670081380000000.json
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio1.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio2.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio3.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio4.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio5.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\BadEnding.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\NeutralEnding.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\GoodEnding.xbf
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.g.i.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.g.cs
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.xaml
+C:\Users\IanBa\Documents\_VS-Code_projects\1302 Windows Programming course\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\App.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\GoodEnding.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\NeutralEnding.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\BadEnding.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Female_Creation.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Male_Creation.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\MainPage.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio1.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio2.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio3.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio4.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio5.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.xr.xml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.pdb
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\resources.pri
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\AppxManifest.xml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.build.appxrecipe
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\System.Runtime.dll
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.AssemblyReference.cache
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.g.i.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.xaml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.xbf
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.CopyComplete
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.pdb
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\priconfig.xml
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\resources.resfiles
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\pri.resfiles
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\qualifiers.txt
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\IanBa\Desktop\CST Program classes+files (use for portfolio)\1302\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637670081380000000.json
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\App.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\GoodEnding.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\NeutralEnding.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\BadEnding.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Female_Creation.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Male_Creation.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\MainPage.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio1.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio2.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio3.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio4.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Scenerio5.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.xr.xml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.pdb
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.AssemblyReference.cache
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.g.i.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.xaml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\App.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\GoodEnding.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\NeutralEnding.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\BadEnding.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Female_Creation.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Male_Creation.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MainPage.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio1.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio2.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio3.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio4.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Scenerio5.xbf
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.csproj.CopyComplete
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\Visual_Novel_Final_Project.pdb
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\resources.pri
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\AppxManifest.xml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Core\Visual_Novel_Final_Project.exe
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\Visual_Novel_Final_Project.build.appxrecipe
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\bin\x86\Debug\System.Runtime.dll
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\priconfig.xml
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\resources.resfiles
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\pri.resfiles
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\qualifiers.txt
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637670081380000000.json
+C:\Users\IanBa\Documents\_My Programming work\_Personal projects\UWP\Visual_Novel_Final_Project\Visual_Novel_Final_Project\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637935274560000000.json
