@@ -1,0 +1,85 @@
+﻿<Page
+    x:Class="Visual_Novel_Final_Project.Scenerio4"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Visual_Novel_Final_Project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="187*"/>
+            <RowDefinition Height="13*"/>
+        </Grid.RowDefinitions>
+
+        <Canvas x:Name="cvsBackgroundImage" Margin="0,0,0,60">
+
+            <Image Source="/My Scenerio drawings/Scenerio4.png" HorizontalAlignment="Left" Height="585" VerticalAlignment="Top" Width="1500" Stretch="Fill"/>
+
+
+
+        </Canvas>
+        <Canvas x:Name="PlayerCanvas" Margin="-319,86,574,247">
+            <Canvas.Background>
+                <ImageBrush/>
+            </Canvas.Background>
+            <Rectangle x:Name="UniqueHair" Height="22" Canvas.Left="435" Canvas.Top="187" Width="54">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Character_Parts/Male/Bald_haircut_M.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle x:Name="Face" Height="61" Canvas.Left="435" Canvas.Top="207" Width="57">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Character_Parts/Male/Male_Face.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle x:Name="Hair" Height="22" Canvas.Left="431" Canvas.Top="195" Width="61">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Character_Parts/Male/MopHead_haircut_Black_M.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle x:Name="Armor" Height="221" Canvas.Left="350" Canvas.Top="258" Width="195">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Character_Parts/Male/Suave_Coat_M_Color.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle x:Name="Weapon" Height="81" Canvas.Left="500" Canvas.Top="335" Width="262">
+                <Rectangle.Fill>
+                    <ImageBrush ImageSource="/Character_Parts/Male/Sword_M.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+            <Rectangle x:Name="Hands" Height="46" Canvas.Left="361" Canvas.Top="369" Width="176">
+                <Rectangle.Fill>
+                    <ImageBrush Stretch="Fill" ImageSource="/Character_Parts/Male/Male_Hands.png"/>
+                </Rectangle.Fill>
+            </Rectangle>
+
+        </Canvas>
+
+        <Canvas Margin="3,586,0,0" Width="Auto" Background="Silver" Height="204" VerticalAlignment="Top">
+
+
+            <TextBlock x:Name="tblkDefaultText" TextWrapping="Wrap" Width="1497" Text="HELLO" FontFamily="Comic Sans MS" FontSize="22" Foreground="Black" Height="97" FontWeight="Normal" FontStyle="Normal" HorizontalAlignment="Center" Canvas.Top="-2" VerticalAlignment="Top"/>
+            <TextBlock x:Name="tblkAlteredTextBad" TextWrapping="Wrap" Text="" Height="90" Canvas.Top="60" Width="1497" FontSize="22" FontFamily="Comic Sans MS" Foreground="#FFB71515"/>
+            <TextBlock x:Name="tblkAlteredTextNeutral" TextWrapping="Wrap" Text="" Height="90" Canvas.Top="60" Width="1497" FontSize="22" FontFamily="Comic Sans MS"  Foreground="#FF4D4D4D"></TextBlock>
+            <TextBlock x:Name="tblkAlteredTextGood" TextWrapping="Wrap" Text="" Height="90" Canvas.Top="60" Width="1497" FontSize="22" FontFamily="Comic Sans MS" Foreground="#FF004AD4" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        </Canvas>
+        <TextBlock HorizontalAlignment="Left" Margin="275,40,0,0" TextWrapping="Wrap" Text="Your Roll:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tblkPlayerRoll" HorizontalAlignment="Left" Margin="360,40,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="1045,55,0,0" TextWrapping="Wrap" Text="Goal:" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tblkGoal" HorizontalAlignment="Left" Margin="1102,55,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top"/>
+        <Button x:Name="btnDice" Content="" Margin="190,37,0,0" VerticalAlignment="Top" Width="42" Height="38" Click="btnDice_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/Misc_Images/Dice.png"/>
+            </Button.Background>
+        </Button>
+
+
+        <Button x:Name="btnNextSlide" Content="Next" Margin="1363,524,0,0" VerticalAlignment="Top" Height="50" Width="95" Background="#FF5FFD00" FontSize="24" FontFamily="Curlz MT" BorderBrush="#FF2C8018" FontWeight="Bold" Visibility="Collapsed" Click="btnNextSlide_Click"/>
+        <TextBlock x:Name="___No_Name_" HorizontalAlignment="Left" Margin="1320,57,0,0" TextWrapping="Wrap" Text="Karma" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tblkKarmaPoints" HorizontalAlignment="Left" Margin="1410,59,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="16" Width="30"/>
+
+    </Grid>
+</Page>
